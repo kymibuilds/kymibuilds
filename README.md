@@ -4,10 +4,10 @@
 
 <h2 align="center">hi, i’m kymi, i like to build.</h2>
 
-<div align="center" style="margin-top:8px;">
+<div style="margin-top:8px;">
   <p style="margin:4px 0; font-weight:bold;">Platforms</p>
-  <a href="https://codeforces.com/profile/tzyx" target="_blank" style="margin:4px;">Codeforces</a> | 
-  <a href="https://leetcode.com/hyplona" target="_blank" style="margin:4px;">LeetCode</a>
+  <a href="https://codeforces.com/profile/tzyx" target="_blank">Codeforces</a><br>
+  <a href="https://leetcode.com/hyplona" target="_blank">LeetCode</a>
 </div>
 
 ###
@@ -18,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="AngularJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="Node.js" />
@@ -26,11 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" style="margin:8px; filter:grayscale(100%); transition:0.3s;" onmouseover="this.style.filter='grayscale(0%)';" onmouseout="this.style.filter='grayscale(100%)';" alt="scikit-learn" />
-
 </div>
 
 
