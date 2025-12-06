@@ -1,5 +1,5 @@
 <div style="width:95vw; margin-left:50%; transform:translateX(-50%);">
-  <img src="https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" style="width:100%; height:auto;" />
+  <img src="[https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" style="width:100%; height:auto;](https://i.pinimg.com/originals/4d/04/32/4d0432bb05c8def9fa01017aa50bfbcd.gif)" />
 </div>
 
 <h2 align="center">hi, i’m kymi, i like to build.</h2>
