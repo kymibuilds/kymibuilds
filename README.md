@@ -1,5 +1,8 @@
 <div style="width:95vw; margin-left:50%; transform:translateX(-50%);">
-  <img src="[https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif" style="width:100%; height:auto;](https://i.pinimg.com/originals/4d/04/32/4d0432bb05c8def9fa01017aa50bfbcd.gif)" />
+  <img 
+    src="https://i.pinimg.com/originals/4d/04/32/4d0432bb05c8def9fa01017aa50bfbcd.gif" 
+    width="95%"
+  />
 </div>
 
 <h2 align="center">hi, i’m kymi, i like to build.</h2>
@@ -38,7 +41,7 @@
   <a href="https://instagram.com/vanshdrowned" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" style="margin:4px;" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/hyplone" target="_blank">
+  <a href="https://discord.com/users/hyplona" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" style="margin:4px;" alt="Discord" />
   </a>
   <a href="mailto:kymibuilds@gmail.com" target="_blank">
