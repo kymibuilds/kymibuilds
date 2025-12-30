@@ -9,7 +9,7 @@
 
 <div style="margin-top:8px;">
   <p style="margin:4px 0; font-weight:bold;">Platforms</p>
-  <a href="https://codeforces.com/profile/tzyx" target="_blank">Codeforces</a><br>
+  <a href="https://codeforces.com/profile/nyahh" target="_blank">Codeforces</a><br>
   <a href="https://leetcode.com/hyplona" target="_blank">LeetCode</a>
 </div>
 
