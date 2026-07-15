@@ -10,6 +10,10 @@ ai engineer
 react · nodejs · python · databases  
 ai · c++ · opencv
 
+［ recent wins ］
+────────────────────────
+1st @ openai · 1st @GGSIPU · 2nd @NSUT 
+
 ［ links ］
 ────────────────────────
 <a href="https://codeforces.com/profile/tzyx">codeforces</a> · <a href="https://leetcode.com/u/vimzh/">leetcode</a> · <a href="mailto:vimzh.dev@gmail.com">vimzh.dev@gmail.com</a> · <a href="https://vimzh.dev">portfolio</a>
