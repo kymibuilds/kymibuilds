@@ -7,7 +7,7 @@ ai engineer
 
 ［ tech stack ］
 ────────────────────────
-react · nodejs · python · databases  
+react · typescript · python  
 ai · c++ · opencv
 
 ［ recent wins ］
